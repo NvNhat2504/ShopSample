@@ -1,0 +1,6 @@
+C:\Users\NvNhat\OneDrive\Web ASP\ShopSample\Shop.Common\bin\Release\Shop.Common.dll
+C:\Users\NvNhat\OneDrive\Web ASP\ShopSample\Shop.Common\bin\Release\Shop.Common.pdb
+C:\Users\NvNhat\OneDrive\Web ASP\ShopSample\Shop.Common\obj\Release\Shop.Common.csprojAssemblyReference.cache
+C:\Users\NvNhat\OneDrive\Web ASP\ShopSample\Shop.Common\obj\Release\Shop.Common.csproj.CoreCompileInputs.cache
+C:\Users\NvNhat\OneDrive\Web ASP\ShopSample\Shop.Common\obj\Release\Shop.Common.dll
+C:\Users\NvNhat\OneDrive\Web ASP\ShopSample\Shop.Common\obj\Release\Shop.Common.pdb

@@ -1,0 +1,29 @@
+﻿
+.account-area
+{
+    position:unset !important;
+}
+
+.list-checkbox{
+    margin: 0 0 0 0 !important;
+}
+
+
+input[type=checkbox] ~ .format-lstcheckbox:before, input[type=radio] ~ .format-lstcheckbox:before {
+    margin-right: 0px !important;
+}
+.text-green {
+    color: #00a65a;
+}
+.text-red {
+    color: #dd4b39;
+}
+
+
+/*Format Theme Table*/
+.header-table{
+    margin-bottom: 10px;
+}
+.footer-table{
+    margin-top:10px;
+}

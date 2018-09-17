@@ -1,0 +1,17 @@
+C:\Users\NvNhat\OneDrive\Web ASP\ShopSample\Shop.Common\bin\Debug\Shop.Common.dll
+C:\Users\NvNhat\OneDrive\Web ASP\ShopSample\Shop.Common\bin\Debug\Shop.Common.pdb
+C:\Users\NvNhat\OneDrive\Web ASP\ShopSample\Shop.Common\obj\Debug\Shop.Common.csproj.CoreCompileInputs.cache
+C:\Users\NvNhat\OneDrive\Web ASP\ShopSample\Shop.Common\obj\Debug\Shop.Common.dll
+C:\Users\NvNhat\OneDrive\Web ASP\ShopSample\Shop.Common\obj\Debug\Shop.Common.pdb
+C:\Users\NvNhat\OneDrive\Web ASP\ShopSample\Shop.Common\obj\Debug\Shop.Common.csprojAssemblyReference.cache
+C:\Users\NvNhat\OneDrive\Web ASP\_ShopSample\Shop.Common\bin\Debug\Shop.Common.dll
+C:\Users\NvNhat\OneDrive\Web ASP\_ShopSample\Shop.Common\bin\Debug\Shop.Common.pdb
+C:\Users\NvNhat\OneDrive\Web ASP\_ShopSample\Shop.Common\obj\Debug\Shop.Common.csproj.CoreCompileInputs.cache
+C:\Users\NvNhat\OneDrive\Web ASP\_ShopSample\Shop.Common\obj\Debug\Shop.Common.dll
+C:\Users\NvNhat\OneDrive\Web ASP\_ShopSample\Shop.Common\obj\Debug\Shop.Common.pdb
+C:\Users\NvNhat\OneDrive\Web ASP\_ShopSample\Shop.Common\obj\Debug\Shop.Common.csprojAssemblyReference.cache
+C:\Users\PSC_NvNhat\OneDrive\Web ASP\_ShopSample\Shop.Common\bin\Debug\Shop.Common.dll
+C:\Users\PSC_NvNhat\OneDrive\Web ASP\_ShopSample\Shop.Common\bin\Debug\Shop.Common.pdb
+C:\Users\PSC_NvNhat\OneDrive\Web ASP\_ShopSample\Shop.Common\obj\Debug\Shop.Common.csprojResolveAssemblyReference.cache
+C:\Users\PSC_NvNhat\OneDrive\Web ASP\_ShopSample\Shop.Common\obj\Debug\Shop.Common.dll
+C:\Users\PSC_NvNhat\OneDrive\Web ASP\_ShopSample\Shop.Common\obj\Debug\Shop.Common.pdb

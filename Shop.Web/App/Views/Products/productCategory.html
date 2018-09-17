@@ -1,0 +1,78 @@
+﻿<style>
+    input.ng-invalid {
+        border: 1px solid red;
+    }
+</style>
+<div ng-controller="ProductCategoryCtrl">
+    <toaster-container toaster-options="{'position-class': 'toast-top-right', 'close-button':true, 'time-out': 3000 }"></toaster-container>
+    <div class="row">
+        <div class="col-xs-12 col-md-12 col-lg-12">
+            <div class="widget">
+                <div class="widget-header ">
+                    <span class="widget-caption">Thêm danh mục</span>
+                </div>
+                <div class="widget-body">
+                    <div class="row">
+                        <form role="form" ng-submit="Save()" name="productcategory" novalidate="novalidate">
+                            <div class="col-md-6">
+                                <div class="form-group" >
+                                    <label>Tên danh mục</label>
+                                    <input name="Name" type="text" class="form-control input-sm" ng-model="data.Name" ng-change="GetSeoTitle()" required>
+                                </div>
+                                <div class="form-group">
+                                    <label>Danh mục cha</label>
+                                    <select class="form-control input-sm" ng-model="data.ParentID" ng-options="option.ID as option.Name for option in parentProductCategory" />
+                                </div>
+                                <div class="form-group">
+                                    <label>Mô tả từ khóa</label>
+                                    <input type="text" class="form-control input-sm" ng-model="data.MetaDescription">
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <label>Tiêu đề SEO</label>
+                                    <input type="text" class="form-control input-sm" disabled="disabled" ng-model="data.Alias">
+                                </div>
+                                <div class="form-group">
+                                    <label>Từ khóa</label>
+                                    <input type="text" class="form-control input-sm" ng-model="data.MetaKeyword">
+                                </div>
+                                <div class="form-group">
+                                    <label>Mô tả</label>
+                                    <input type="text" class="form-control input-sm" ng-model="data.Description">
+                                </div>
+                                <div class="form-group row">
+
+                                    <div class="col-md-4">
+                                        <label>Thứ tự</label>
+                                        <input type="number" class="form-control input-sm" min="0" ng-model="data.DisplayOrder">
+                                    </div>
+                                    <div class="col-md-4" style="padding-top:20px">
+                                        <div class="checkbox">
+                                            <label>
+                                                <input type="checkbox" class="colored-blue" ng-model="data.Status" ng-checked="data.Status" >
+                                                <span class="text">Kích hoạt</span>
+                                            </label>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-4" style="padding-top:20px">
+                                        <div class="checkbox">
+                                            <label>
+                                                <input type="checkbox" class="colored-blue" ng-model="data.HomeFlag" ng-checked="data.HomeFlag">
+                                                <span class="text">Trang chủ</span>
+                                            </label>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-12 text-align-center">
+                                <button type="submit" class="btn btn-primary" ng-disabled="!data.Name" ><i class="fa fa-save"></i> Save</button>
+                                <button class="btn btn-warning" ui-sref="productCategories"><i class="fa fa-times-circle"> Cancel</i></button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

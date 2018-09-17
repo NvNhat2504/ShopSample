@@ -1,0 +1,16 @@
+C:\Users\NvNhat\OneDrive\Web ASP\ShopSample\Shop.Model\bin\Release\Shop.Model.dll.config
+C:\Users\NvNhat\OneDrive\Web ASP\ShopSample\Shop.Model\bin\Release\Shop.Model.dll
+C:\Users\NvNhat\OneDrive\Web ASP\ShopSample\Shop.Model\bin\Release\Shop.Model.pdb
+C:\Users\NvNhat\OneDrive\Web ASP\ShopSample\Shop.Model\bin\Release\EntityFramework.dll
+C:\Users\NvNhat\OneDrive\Web ASP\ShopSample\Shop.Model\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\NvNhat\OneDrive\Web ASP\ShopSample\Shop.Model\bin\Release\Microsoft.AspNet.Identity.Core.dll
+C:\Users\NvNhat\OneDrive\Web ASP\ShopSample\Shop.Model\bin\Release\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\NvNhat\OneDrive\Web ASP\ShopSample\Shop.Model\bin\Release\EntityFramework.xml
+C:\Users\NvNhat\OneDrive\Web ASP\ShopSample\Shop.Model\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\NvNhat\OneDrive\Web ASP\ShopSample\Shop.Model\bin\Release\Microsoft.AspNet.Identity.Core.xml
+C:\Users\NvNhat\OneDrive\Web ASP\ShopSample\Shop.Model\bin\Release\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\NvNhat\OneDrive\Web ASP\ShopSample\Shop.Model\obj\Release\Shop.Model.csprojAssemblyReference.cache
+C:\Users\NvNhat\OneDrive\Web ASP\ShopSample\Shop.Model\obj\Release\Shop.Model.csproj.CoreCompileInputs.cache
+C:\Users\NvNhat\OneDrive\Web ASP\ShopSample\Shop.Model\obj\Release\Shop.Model.csproj.CopyComplete
+C:\Users\NvNhat\OneDrive\Web ASP\ShopSample\Shop.Model\obj\Release\Shop.Model.dll
+C:\Users\NvNhat\OneDrive\Web ASP\ShopSample\Shop.Model\obj\Release\Shop.Model.pdb
